@@ -740,7 +740,7 @@ font-size: 11px;
     transition: 1s;
 }
 #back-top a:hover {
-    background: ##FFFFFF;
+    background: #FFFFFF;
 }
 /* arrow icon (span tag) */
 #back-top i {
@@ -767,7 +767,7 @@ and (max-width : 480px) {
 }
 
 a{
-  color: #343D76;
+  color: #FFFFFF;
 }
 
 a:hover, a:focus, a:active{
